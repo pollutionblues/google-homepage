@@ -1,0 +1,72 @@
+li {
+list-style-type: none;
+float: right;
+}
+
+li a {
+display: block;
+padding: 8px;
+}
+
+
+
+#logo {
+  padding-top:175px;
+  text-align: center;
+}
+
+#logo img {
+    height:95px;
+    width:267px;
+}
+
+#logo form input {
+  width:570px;
+  height:25px;
+  margin-top:20px;
+  border:1px solid rgba(0, 0, 0, 0.2);
+}
+
+#logo form button {
+  color: rgb(68, 68, 68);
+  font-weight:bold;
+  font-size:10px;
+  background: #2E8AE5;
+  height:30px;
+  width:120px;
+  margin: 16px 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgb(245, 245, 245);
+}
+
+.left {
+float: left;
+padding: 8px;
+}
+
+.right {
+float: right;
+padding: 8px;
+margin-right: 8px;
+
+}
+
+footer {
+  background:rgb(242, 242, 242);
+  height:120px;
+  width:100%;
+  position:absolute;
+  bottom:0px;
+
+#footer {
+  margin-left:15px;
+  margin-right:15px;
+  font-family:arial;
+  color:#666;
+  font-size:13px;
+  line-height: 24px;
+
+}
+
+
+
